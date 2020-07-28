@@ -4,9 +4,7 @@
 //  INSTRUCTOR: Steve Luis CASE 282
 //  ASSIGNMENT: Programming Assignment 6
 //  DUE: Sunday 07/26/2020
-//********************************************
-// *********ADMIN PIN: 2077*******************
-//********************************************
+
 
 import UIKit
 
